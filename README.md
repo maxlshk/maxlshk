@@ -10,7 +10,7 @@
 
 </div>
 
-< align="center">
+<div align="center">
   <a href="https://t.me/mx_lshk" target="_blank"><img src="./assets/telegram.png" alt="Facebook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="www.linkedin.com/in/max-loshak" target="_blank"><img src="./assets/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="mailto:m.loshak@ukma.edu.ua"
