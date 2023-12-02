@@ -54,11 +54,11 @@ target="_blank"><img src="./assets/outlook.png" alt="Outlook" style="width: 40px
 
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphadev97&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxlshk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alphadev97&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=maxlshk&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphadev97&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlshk&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
 
