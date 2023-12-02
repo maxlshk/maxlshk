@@ -10,12 +10,11 @@
 
 </div>
 
-<div align="center">
+< align="center">
   <a href="https://t.me/mx_lshk" target="_blank"><img src="./assets/telegram.png" alt="Facebook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="www.linkedin.com/in/max-loshak" target="_blank"><img src="./assets/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="mailto:m.loshak@ukma.edu.ua"
 target="_blank"><img src="./assets/outlook.png" alt="Outlook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-</div>
 <a href="mailto:max.loshak.i@gmail.com
 " target="_blank"><img src="./assets/gmail.png" alt="Gmail" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 </div>
