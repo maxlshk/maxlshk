@@ -55,11 +55,9 @@ target="_blank"><img src="./assets/outlook.png" alt="Outlook" style="width: 40px
 
 <div class="stats" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=maxlshk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20">
+<img src="https://github-readme-stats.zohan.tech/api?username=maxlshk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20">
 <br>
-<img src="https://streak-stats.demolab.com?user=maxlshk&count_private=true&theme=algolia&border_radius=20">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlshk&layout=compact&show_icons=true&theme=algolia&border_radius=20">
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=maxlshk&layout=compact&show_icons=true&theme=algolia&border_radius=20">
 
 </div>
 
