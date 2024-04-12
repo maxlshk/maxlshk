@@ -6,7 +6,7 @@
 
 **`Software Engineer`**
 
-👋 Hey there! I'm Max Loshak, a software engineer and a student in Kyiv-Mohyla academy. I work with React, Next.js, Node.js, Express.js, MongoDB, and more. Passionate about creating helpful applications and learning from fellow developers. Let's connect and build impactful software solutions together.
+👋 Hey there! I'm Max, a software engineer and a student in Kyiv-Mohyla academy. I work with React, Next.js, Node.js, Express.js, MongoDB, and more. Passionate about creating helpful applications and learning from fellow developers. Let's connect and build impactful software solutions together.
 
 ---
 
