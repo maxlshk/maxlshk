@@ -8,17 +8,6 @@
 
 👋 Hey there! I'm Max Loshak, a software engineer and a student in Kyiv-Mohyla academy. I work with React, Next.js, Node.js, Express.js, MongoDB, and more. Passionate about creating helpful applications and learning from fellow developers. Let's connect and build impactful software solutions together.
 
-</div>
-
-<div align="center">
-  <a href="https://t.me/mx_lshk" target="_blank"><img src="./assets/telegram.png" alt="Facebook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-<a href="www.linkedin.com/in/max-loshak" target="_blank"><img src="./assets/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-<a href="mailto:m.loshak@ukma.edu.ua"
-target="_blank"><img src="./assets/outlook.png" alt="Outlook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-<a href="mailto:max.loshak.i@gmail.com
-" target="_blank"><img src="./assets/gmail.png" alt="Gmail" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-</div>
-
 ---
 
 <div align="center">
