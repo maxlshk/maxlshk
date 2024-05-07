@@ -44,7 +44,7 @@
   
 <img src="https://github-readme-stats.zohan.tech/api?username=maxlshk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20">
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maxlshk&theme=algolia&border_radius=20&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maxlshk&theme=algolia&border_radius=20" alt="GitHub Streak" /></a>
 </div>
 
 </div>
